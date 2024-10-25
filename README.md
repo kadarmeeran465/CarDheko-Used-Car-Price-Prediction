@@ -1,4 +1,4 @@
-# 🚗 Car Dekho - Used Car Price Prediction 
+# <img src="https://github.com/user-attachments/assets/f508bb42-c617-459b-9f7e-5be31e0a6dc3" alt="Car Dekho Logo" width="150"/> Car Dekho - Used Car Price Prediction 🚗
 
 ## Project Overview 📚
 This project focuses on developing an interactive, predictive tool for determining the price of used cars based on various factors. Leveraging machine learning and the data from Car Dekho, we aim to create a robust model for accurate price prediction, deployed as a Streamlit application. This tool is designed to streamline the car pricing process for both customers and sales representatives, enhancing the car-buying and selling experience.
@@ -132,12 +132,8 @@ This project focuses on developing an interactive, predictive tool for determini
 - **Instant Price Prediction**: Outputs a predicted price based on the input data.
 - **Interactive Visualizations**: Displays historical pricing data, feature impacts, and more.
 
-![cardekho](https://github.com/user-attachments/assets/d7e57a2c-12cc-440b-abba-f22562110be6)
-
----
-
 ## Video Demonstration 🎥
-Watch how the Streamlit app works in this demonstration:
+Click below to watch how the Streamlit app works in this demonstration:
 
 [![Streamlit App Demo](https://github.com/user-attachments/assets/d7e57a2c-12cc-440b-abba-f22562110be6)](https://www.dropbox.com/scl/fi/t1itw563cpeorb3rwbnna/CarDekho.mp4?rlkey=7a79kvvfkw57rjgqgkv6ms951&st=ay9shm5m&dl=1)
 
